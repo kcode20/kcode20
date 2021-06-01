@@ -1,6 +1,6 @@
 ![Cover photo](kcode20_github.gif)
 
-Hi 👋🏾 , I'm Khristian Brooks. I'm a software engineer based in New York specialized in building (and occasionally designing) websites and applications. I am passionate about building tecnology to connect people. Some technologies I enjoy working with include:
+Hi 👋🏾 , I'm Khristian Brooks. I'm a software engineer based in New York specialized in building (and occasionally designing) websites and applications. I am passionate about building technology to connect people. Some technologies I enjoy working with include:
 
 ![React](https://img.shields.io/badge/-ReactJS-fff?&logo=React&color=2f5b44&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=redux&color=2f5b44&logoColor=white)
