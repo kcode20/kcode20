@@ -29,8 +29,7 @@ Here are some technologies I enjoy working with:
 Want to connect?
 <pre>
 khristian.connect()
-=> [<a href="linkedin.com/in/khristian-brooks" title="LinkedIn Link">LinkedIn</a>, <a href="khristianadesina.com" title="Website">Website</a>, <a href="khristian.adesina@gmail.com" title="email">Email</a>];
-</pre>
+=> [<a href="https://linkedin.com/in/khristian-brooks" title="LinkedIn Link">LinkedIn</a>, <a href="https://khristianadesina.com" title="Website">Website</a>, <a href="mailto:khristian.adesina@gmail.com" title="Email">Email</a>];</pre>
 
 <!--
 **kcode20/kcode20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
